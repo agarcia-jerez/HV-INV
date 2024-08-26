@@ -1,0 +1,51 @@
+Copyright © 2014-2016 José Piña-Flores, Antonio García-Jerez.
+
+
+The following addenda to the Warranty Disclaimer apply:
+
+1. No guarantees, or warranties, either expressed or implied, are provided 
+by the Author, or Member of his Affiliated Organization, or by any Contributor 
+to this program, regarding the ACCURACY, SAFETY, or ANY OTHER QUALITY or 
+CHARACTERISTIC of this program, or ANY DERIVATIVE SOFTWARE.
+
+2. MATLAB is a trademark of The MathWorks Inc. and is owned by them. Inasmuch as 
+this program is based on the MATLAB platform, The MathWorks Inc. BEARS NO 
+RESPONSIBILITY IN ANY FORM WHATSOEVER, for any adverse effect that may result 
+from using this program.
+
+This program is free, but is not public domain software. It is available under 
+the following terms:
+
+1. The Author and copyright holder reserves the right to distribute this program 
+and its documentation for a profit and at his discretion. If such a decision is 
+taken, the author guarantees that the copyright of third party free software 
+included in this program will not be infringed and that no money will be charged 
+for it. 
+
+2. The simple repackaging and selling of this program as is, beyond the provisions 
+of the GNU General Public License, as a commercial software product, is expressly 
+forbidden without the prior written permission of the author. 
+
+The following requests are not subject to any legal terms:
+
+1. In publications, please refer to this program using one or all of the following: 
+
+García-Jerez A., Luzón F., Sánchez-Sesma F.J., Lunedei E.,  Albarello D., Santoyo M.A.,
+Almendros J. (2013) Diffuse elastic wavefield within a simple crustal model. Some
+consequences for low and high frequencies. Journal of Geophysical Research 118(10),
+5577-5595.
+ 
+Sánchez-Sesma, F.J., Rodríguez, M., Iturrarán-Viveros, U., Luzón, F., Campillo, M.,
+Margerin, L., García-Jerez,A., Suarez, M., Santoyo, M.A., Rodríguez-Castellanos, A. (2011)
+A theory for microtremor H/V spectral ratio: application for a layered medium, Geophysical
+Journal International 186, 221-225.
+ 
+Piña-Flores, J. (2015). Cálculo e inversión del cociente H/V a partir de ruido ambiental.
+Unpublished M.Sc. Thesis, Universidad Nacional Autónoma de México, México DF, 76 pp. 
+In Spanish. 
+
+
+2. Please notify the author for any corrections, bug fixes, improvements or additions /
+expansion you might make to this program, so that they may be can included in the next HV-Inv
+release. Your name and affiliation will be dully credited.
+
