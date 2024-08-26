@@ -5,7 +5,7 @@ HV-Inv is a computer code for forward calculation and inversion of H/V spectral 
 It has been written in Matlab R2015a
 
 The exe folder contains compiled fortran code for the forward computation of H/V under the diffuse field approach.
-The source code for that vile is available at https://github.com/agarcia-jerez/HV-DFA
+The source code for that file is available at https://github.com/agarcia-jerez/HV-DFA
 
 Note that the definition of H/V used in this software is:
 
