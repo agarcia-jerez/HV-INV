@@ -1,1 +1,1 @@
-etc folder is required to store temporary files
+'etc' folder is required to store temporary files.
